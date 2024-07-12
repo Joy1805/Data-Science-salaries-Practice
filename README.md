@@ -1,2 +1,3 @@
-# Data-Science-salaries-Practice
-Learning data analysis techniques with Pandas, Seaborn and Matplotlib 
+# Data-Science-salaries
+Finding insights into the job market dynamics, salary trends, and geographical distribution of data science roles
+
